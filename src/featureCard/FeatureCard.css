@@ -1,0 +1,18 @@
+.feature-card {
+  
+  display: inline-table;
+  margin-top: left;
+  justify-content: center;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.1);
+  color: #333;
+}
+
+.feature-icon {
+  display:inline;
+  font-size: 40px;
+  color: #ff512f;
+  margin-bottom: 15px;
+}
